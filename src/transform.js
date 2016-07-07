@@ -1,4 +1,4 @@
-const babel = require('babel-standalone');
+const babel = require('babel-solo');
 
 export default function transform(template, config) {
   const transformed   = babel.transform(template, config);

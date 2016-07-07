@@ -9,7 +9,7 @@
     "test": "gulp test"
   },
   "dependencies": {
-    "babel-standalone": "github:sprightco/babel-standalone#eventListener-check",
+    "babel-solo": "0.0.1",
     "lodash": "4.13.1"
   },
   "devDependencies": {

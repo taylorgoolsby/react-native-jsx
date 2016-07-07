@@ -1,6 +1,6 @@
 {
   "name": "react-native-jsx",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Compile JSX templates at runtime in React Native  ",
   "main": "./index.js",
   "scripts": {

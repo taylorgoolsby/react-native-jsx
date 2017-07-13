@@ -14,8 +14,7 @@ export default function transform(template, config) {
           return ${code.slice(start)}\n
         }
       } catch(error) {\n
-        console.log(error);
-        return null;
+        throw error;
       }\n
     })()`);
 }
